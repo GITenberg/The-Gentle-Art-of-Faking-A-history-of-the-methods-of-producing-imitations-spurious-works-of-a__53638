@@ -1,0 +1,28 @@
+_repo: The-Gentle-Art-of-Faking-A-history-of-the-methods-of-producing-imitations-spurious-works-of-a__53638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nobili, Riccardo
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '47471'
+    url: http://www.gutenberg.org/2009/agents/47471
+description: ''
+gutenberg_issued: '2016-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53638'
+  lccn: '22006131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forgery of antiquities'
+- !lcc 'N'
+- !lcsh 'Art -- Forgeries'
+- !lcsh 'Collectors and collecting'
+- GITenberg
+title: "The Gentle Art of Faking\r\nA history of the methods of producing imitations\
+  \ & spurious works of art from  the earliest times up to the present day"
+url: http://www.gutenberg.org/ebooks/53638
